@@ -25,3 +25,11 @@ Esta lista esta integrada por aplicaciones y extensiones que son muy utiles para
 10. [TestRail](https://www.gurock.com/testrail): Software para la creación de test run y test cases, facilita la revisión y con sus muchas extensiones es muy sencillo obtener metricas 
 
 11. [Generador de Información](http://www.generatedata.com/): ¿Necesitas generar muchos registros en algun documento XLM..? Este generador de data te puede ayudar de manera sencilla
+
+12. [Block Yourself from Analytics](https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm?hl=en): Block your Google Analytics™ activity for the websites you own, no more false stats.
+
+13. [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en)The Facebook Pixel Helper is a troubleshooting tool that helps you validate your pixel implementation.
+
+14. [TunnelBear VPN. Rawwwr!](https://www.tunnelbear.com/download) Put a Bear in your browser and privately access a more open internet in seconds!
+
+15. [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
