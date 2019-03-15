@@ -33,3 +33,5 @@ Esta lista esta integrada por aplicaciones y extensiones que son muy utiles para
 14. [TunnelBear VPN. Rawwwr!](https://www.tunnelbear.com/download) Put a Bear in your browser and privately access a more open internet in seconds!
 
 15. [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
+
+9. [Kobiton](https://kobiton.com/): Emulador de dispostivos moviles, sencillo de utilizar, también tiene costo su uso
