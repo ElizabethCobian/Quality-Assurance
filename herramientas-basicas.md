@@ -34,4 +34,6 @@ Esta lista esta integrada por aplicaciones y extensiones que son muy utiles para
 
 15. [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
 
-9. [Kobiton](https://kobiton.com/): Emulador de dispostivos moviles, sencillo de utilizar, también tiene costo su uso
+16. [Kobiton](https://kobiton.com/): Emulador de dispostivos moviles, sencillo de utilizar, también tiene costo su uso
+
+17. [Json Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh): Si necesitas conocer un poco más de los Json que hay, esta herramienta es super util
