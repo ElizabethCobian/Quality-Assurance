@@ -30,7 +30,7 @@ Esta lista esta integrada por aplicaciones y extensiones que son muy utiles para
 
 13. [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en)The Facebook Pixel Helper is a troubleshooting tool that helps you validate your pixel implementation.
 
-14. [TunnelBear VPN. Rawwwr!](https://www.tunnelbear.com/download) Put a Bear in your browser and privately access a more open internet in seconds!
+14. [TunnelBear VPN. Rawwwr!](https://www.tunnelbear.com/download) Put a Bear in your browser and privately access a more open internet in seconds! Ayuda a generar diferentes IP's dummies, puedes ser muy útil cuando se necesite revisar algo de Google Analytics 
 
 15. [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en) Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
 
